@@ -1,0 +1,24 @@
+{
+  "name": "TaskCompletion",
+  "type": "object",
+  "properties": {
+    "task_id": {
+      "type": "string",
+      "description": "ID da tarefa"
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "Data em que a tarefa foi completada"
+    },
+    "completed": {
+      "type": "boolean",
+      "default": true,
+      "description": "Se a tarefa foi completada"
+    }
+  },
+  "required": [
+    "task_id",
+    "date"
+  ]
+}

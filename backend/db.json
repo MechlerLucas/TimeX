@@ -1,0 +1,68 @@
+{
+  "tasks": [
+    {
+      "name": "Teste",
+      "description": "outro teste",
+      "time": "08:31",
+      "color": "blue",
+      "recurrence": [
+        "everyday"
+      ],
+      "active": true,
+      "alarm_enabled": true,
+      "created_date": "2025-11-17T11:54:47.299Z",
+      "id": 1
+    },
+    {
+      "name": "Outro teste",
+      "description": "Descrição de teste",
+      "time": "22:57",
+      "color": "red",
+      "recurrence": [
+        "everyday"
+      ],
+      "active": true,
+      "alarm_enabled": true,
+      "created_date": "2025-11-17T23:55:37.066Z",
+      "id": 2
+    }
+  ],
+  "taskCompletions": [
+    {
+      "task_id": 1,
+      "date": "2025-11-17",
+      "completed": true,
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "icon": "Home",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "color": "yellow",
+      "name": "Compromissos",
+      "icon": "Calendar"
+    },
+    {
+      "id": 3,
+      "color": "blue",
+      "name": "Pessoal",
+      "icon": "User"
+    },
+    {
+      "id": 4,
+      "color": "green",
+      "name": "Saúde",
+      "icon": "Heart"
+    },
+    {
+      "color": "red",
+      "name": "Casa",
+      "icon": "Home",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1763378378384",
+    "name": "Teste",
+    "description": "Descrição de teste",
+    "time": "09:20",
+    "color": "blue",
+    "recurrence": [
+      "everyday"
+    ],
+    "active": true,
+    "alarm_enabled": true,
+    "created_date": "2025-11-17T11:16:53.332Z"
+  }
+]
